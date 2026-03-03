@@ -83,6 +83,10 @@ Results are cached in RDS files in the working directory:
 
 Delete these files to force fresh lookups from PubChem.
 
+## Citation
+
+If you use this software in your work, please cite it. A DOI will be issued shortly via [Zenodo](https://zenodo.org/) — pending Zenodo availability. This section will be updated with the full citation once the DOI is live.
+
 ## License
 
 MIT

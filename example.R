@@ -17,3 +17,9 @@ cmps <- c(
 cmps_info <- cmps %>%
   mutate(pcprops = pcprop_from_name_vec(compound)) %>%
   unnest(pcprops)
+
+# Perfluorononanoic acid
+# 375-95-1
+# heptadecafluorononanoic acid
+# PFNA
+# Perfluoro-n-nonanoic acid
